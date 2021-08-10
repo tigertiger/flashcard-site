@@ -8,4 +8,7 @@ $(document).ready(function() {
   $("#operatorsExamplesClick").click(function() {
     $("#operatorsExamples").toggle();
   });
+  $("#variablesHead").click(function() {
+    $("#variables").toggle();
+  });
 })
